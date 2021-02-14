@@ -1,5 +1,6 @@
 # NLP with Markov Chain
-Machine Learning Generated Classical Music
-The goal of this note is to use Recurrent Neural Network to be able to generate new music by training a predictive model using available music tracks. In the future commuications, we test combing different genres of music to generate new generes. In the following you may find some of the useful links to start with artificial music generation algorithms:
+It turns out that one can build simple Natural Language Processing model with Markov Chain. A Markov Chain is built given several text files that contain stories about Sherlock Holmes. Initializing the initial word, the model can randomly generate stories in Sherlock Holmes writing style. It is quite interesting to see that such a simple model gives correct grammatical structure and somewhat meaningful sentences.  
 
-https://www.hackerearth.com/blog/developers/jazz-music-using-deep-learning
+The data can be downloaded from the following Kaggle page:
+
+https://www.kaggle.com/orion99/markov-chain-nlp/data
